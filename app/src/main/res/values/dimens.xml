@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_margin">16dp</dimen>
+    <dimen name="large_text">20sp</dimen>
+    <dimen name="normal_text">16sp</dimen>
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="app_small_margin">10dp</dimen>
+
+
+    <!-- Settings fragment -->
+    <dimen name="settings_user_photo_width">55dp</dimen>
+    <dimen name="settings_user_photo_height">55dp</dimen>
+    <dimen name="settings_btn_change_photo_width">45dp</dimen>
+    <dimen name="settings_btn_change_photo_height">45dp</dimen>
+    <dimen name="settings_user_photo_border_width">1dp</dimen>
+    <dimen name="vertical_large_margin">16dp</dimen>
+    <dimen name="settings_ripple_effect_radius">4dp</dimen>
+    <dimen name="app_padding">5dp</dimen>
+    <dimen name="chat_image_width">180dp</dimen>
+    <dimen name="chat_image_height">180dp</dimen>
+    <dimen name="chat_common_width">180dp</dimen>
+    <dimen name="chat_common_height">50dp</dimen>
+    <dimen name="chat_btn_width">50dp</dimen>
+    <dimen name="chat_btn_height">50dp</dimen>
+    <dimen name="bottom_sheet_height">70dp</dimen>
+    <dimen name="btn_bottom_sheet_width">50dp</dimen>
+    <dimen name="check_width">20dp</dimen>
+    <dimen name="check_height">20dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="message_max_width">200dp</dimen>
+    <dimen name="auth_btn_width">60dp</dimen>
+    <dimen name="auth_btn_height">60dp</dimen>
+
+</resources>

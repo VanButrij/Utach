@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21391170544",
+    "firebase_url": "https://ergam-a5f1e-default-rtdb.firebaseio.com",
+    "project_id": "ergam-a5f1e",
+    "storage_bucket": "ergam-a5f1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21391170544:android:6324a79f1ec4c3e2379b35",
+        "android_client_info": {
+          "package_name": "com.gpd.utach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21391170544-1j4dmq17pmm7gnm6a06sd385c7tk1d17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0zbhUdyvNPMtogqZx-25M4hoWbJfW-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21391170544-1j4dmq17pmm7gnm6a06sd385c7tk1d17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

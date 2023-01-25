@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Утач</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_default_username">Yura Petrov</string>
+    <string name="settings_default_status">в сети</string>
+    <string name="settings_text_account">Аккаунт</string>
+    <string name="settings_default_phone_number">+79111111111</string>
+    <string name="settings_default_login">yurapetrov</string>
+    <string name="settings_default_bio">О себе</string>
+    <string name="settings_label_phone_number">Нажмите, чтобы изменить номер телефона</string>
+    <string name="settings_label_login">Нажмите, чтобы изменить логин</string>
+    <string name="settings_label_bio">Нажмите, чтобы изменить описание профиля</string>
+    <string name="settings_menu_change_name">Изменить имя</string>
+    <string name="settings_menu_exit">Выход</string>
+    <string name="cd_register_image">register_image</string>
+    <string name="register_text_enter_code">Введите код</string>
+    <string name="register_text_we_sent">Мы отправили Вам SMS с кодом проверки на ваш телефон</string>
+    <string name="register_hint_default">- - - - - -</string>
+    <string name="register_title_your_phone">Ваш телефон</string>
+    <string name="register_toast_enter_phone_number">Введите номер телефона</string>
+    <string name="register_greetings">Добро пожаловать!</string>
+    <string name="register_phone_hint">-----------</string>
+    <string name="settings_hint_input_name">Имя</string>
+    <string name="settings_hint_input_surname">Фамилия</string>
+    <string name="settings_toast_name_is_empty">Имя не может быть пустым</string>
+    <string name="toast_data_updated">Данные обновлены</string>
+    <string name="settings_hint_input_username">username</string>
+    <string name="settings_input_bio">bio</string>
+    <string name="toast_empy_message">Необходимо ввести сообщение</string>
+    <string name="app_title">Утач</string>
+    <string name="clear_chat">Очистить чат</string>
+    <string name="delete_chat">Удалить чат</string>
+    <string name="chat_deleted">Чат удалён</string>
+    <string name="chat_cleared">Чат очищен</string>
+    <string name="chat_is_empty">Чат пуст</string>
+    <string name="add_participant">Добавить участника</string>
+    <string name="create_group">Создать группу</string>
+    <string name="list_contacts_is_empty">Добавьте участника</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="auth">Вход</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="auth_github">GitHub</string>
+
+    <plurals name="count_members">
+        <item quantity="one">%d участник</item>
+        <item quantity="few">%d участника</item>
+        <item quantity="many">%d участников</item>
+        <item quantity="other">%d участников</item>
+    </plurals>
+</resources>
